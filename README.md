@@ -1,2 +1,0 @@
-# CareSync-AI
-CareSync AI
